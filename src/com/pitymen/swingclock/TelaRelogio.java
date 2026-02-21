@@ -1,4 +1,4 @@
-package cursoemvideo;
+package com.pitymen.swingclock;
 
 import javax.swing.*;
 import java.time.LocalDateTime;
